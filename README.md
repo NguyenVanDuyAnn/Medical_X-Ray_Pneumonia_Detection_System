@@ -1,6 +1,6 @@
 # 🩺 Medical X-Ray Pneumonia Detection System
 
-An AI-powered medical imaging system that automatically detects Pneumonia from Chest X-Ray images using Deep Learning techniques.
+Developed a Deep Learning-based medical imaging application that automatically classifies Chest X-Ray images for Pneumonia detection. Implemented data preprocessing, model training, performance evaluation, and deployment through an interactive web interface, enabling efficient and accessible AI-assisted diagnosis.
 
 ---
 
