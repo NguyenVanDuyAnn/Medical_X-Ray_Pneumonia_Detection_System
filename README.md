@@ -161,10 +161,9 @@ MedicalXray_Starter.ipynb
 ## 👨‍💻 Author
 
 **Nguyen Van Duy An**
-
 Data Analyst Student
 
-Artificial Intelligence • Machine Learning • Medical Imaging
+Artificial Intelligence • Machine Learning
 
 ---
 
