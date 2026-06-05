@@ -148,16 +148,6 @@ MedicalXray_Starter.ipynb
 
 ---
 
-## 📷 Sample Prediction
-
-| Input X-Ray | Prediction |
-|------------|------------|
-| Chest X-Ray Image | Pneumonia / Normal |
-
-(Add screenshots here)
-
----
-
 ## 🔬 Future Improvements
 
 - Deploy as a Web Application
@@ -170,16 +160,11 @@ MedicalXray_Starter.ipynb
 
 ## 👨‍💻 Author
 
-**Nguyen An**
+**Nguyen Van Duy An**
 
-Software Engineering Student
+Data Analyst Student
 
 Artificial Intelligence • Machine Learning • Medical Imaging
 
 ---
 
-## ⭐ Support
-
-If you find this project useful, please consider giving it a star.
-
-⭐ Star this repository to support future development.
