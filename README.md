@@ -1,6 +1,6 @@
 # 🩺 Medical X-Ray Pneumonia Detection System
 
-Developed a Deep Learning-based medical imaging application that automatically classifies Chest X-Ray images for Pneumonia detection. Implemented data preprocessing, model training, performance evaluation, and deployment through an interactive web interface, enabling efficient and accessible AI-assisted diagnosis.
+Built an end-to-end Deep Learning solution for automated Pneumonia detection from Chest X-Ray images. The project includes data cleaning, exploratory data analysis (EDA), image preprocessing, model development, evaluation using classification metrics, and deployment through an interactive dashboard. This system showcases the integration of Machine Learning, Computer Vision, and healthcare analytics to assist medical professionals in early disease identification and decision-making.
 
 ---
 
